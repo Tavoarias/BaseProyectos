@@ -10,6 +10,7 @@ export { default as Line } from "./icons/line/Line";
 export { default as Button } from "./button/Button";
 export { default as SliderIcon } from "./icons/slider/SliderIcon";
 export { default as SectionTitle } from "./section-title/SectionTitle";
+export { default as UserList } from "./user-list";
 export { default as FormField } from "./form-field/FormField";
 export { default as DeepLinkImage } from "./deeplink-image/DeepLinkImage";
 export { default as ReplacePlanModal } from "./modals/ReplacePlanModal";
